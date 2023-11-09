@@ -1,0 +1,26 @@
+.divheader{
+    width: 1440px; 
+    height: 240px; 
+    background: #B4D0C1
+}
+
+#img1{
+    width: 343px; 
+    height: 172px;
+}
+
+#button1{
+    color: black;
+    font-size: 50px;
+    font-family: Just Me Again Down Here;
+    font-weight: 400px;
+    word-wrap: break-word
+}
+
+#button2{
+    color: black;
+    font-size: 50px;
+    font-family: Just Me Again Down Here;
+    font-weight: 400px;
+    word-wrap: break-word
+}
