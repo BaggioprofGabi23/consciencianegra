@@ -1,26 +1,32 @@
-.divheader{
-    width: 1440px; 
-    height: 240px; 
-    background: #B4D0C1
+.cabecalho{
+    background: #B4D0C1;
+    width: 1440px;
+    height: 240px;
 }
 
-#img1{
-    width: 343px; 
+.imagemcab{
+    width: 343px;
     height: 172px;
 }
 
-#button1{
-    color: black;
-    font-size: 50px;
+.botaoum{
+    width: 162px;
+    height: 69px;
+    color: #000;
     font-family: Just Me Again Down Here;
+    font-size: 50px;
+    font-style: normal;
     font-weight: 400px;
-    word-wrap: break-word
+    line-height: normal;
 }
 
-#button2{
-    color: black;
-    font-size: 50px;
+.botaodois{
+    width: 118px;
+    height: 75px;
+    color: #000;
     font-family: Just Me Again Down Here;
+    font-size: 50px;
+    font-style: normal;
     font-weight: 400px;
-    word-wrap: break-word
+    line-height: normal;
 }
